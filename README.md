@@ -24,7 +24,7 @@ Github Repo:
 https://github.com/sallychan100
 
 ## Picture of deployed site: 
-![Screenshot](https://github.com/sallychan100/Code-Refactor-for-Horiseon-Social-Solution-Services/blob/599e6d552be403a0f1579f62cc3cdbb371c06450/assets/images/screenshot.png?raw=true)
+![Screenshot](https://github.com/sallychan100/Code-Refactor-for-Horiseon-Social-Solution-Services/blob/main/assets/images/screenshot.png)
 
 ## Contacts
 * Made with ❤️ by Sally Chan
