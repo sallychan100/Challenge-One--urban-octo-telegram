@@ -18,13 +18,13 @@ By doing these can make future maintaineance of the webpage will be easier.
 
 ## links:
 Deployed url:
-https://sallychan100.github.io/Challenge1-urban-octo-telegram-refactored-by-Sally/
+https://sallychan100.github.io/Code-Refactor-for-Horiseon-Social-Solution-Services/
 
 Github Repo:
-https://github.com/sallychan100/Challenge1-urban-octo-telegram-refactored-by-Sally
+https://github.com/sallychan100
 
 ## Picture of deployed site: 
-![Screenshot](assets\images\screenshot.png)
+![Screenshot](https://github.com/sallychan100/Code-Refactor-for-Horiseon-Social-Solution-Services/blob/599e6d552be403a0f1579f62cc3cdbb371c06450/assets/images/screenshot.png?raw=true)
 
 ## Contacts
 * Made with ❤️ by Sally Chan
