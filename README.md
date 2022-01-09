@@ -24,9 +24,9 @@ Github Repo:
 https://github.com/sallychan100/Challenge1-urban-octo-telegram-refactored-by-Sally
 
 ## Picture of deployed site: 
-![Screenshot](assets\images\Horiseon Social Solution Services.png)
+![Screenshot](assets\images\screenshot.png)
 
-## Contribution
-Made with ❤️ by Sally Chan
-Email: sallywing123@gmail.com
-Github: https://github.com/sallychan100/
+## Contacts
+* Made with ❤️ by Sally Chan
+* Email: sallywing123@gmail.com
+* Github: https://github.com/sallychan100/
