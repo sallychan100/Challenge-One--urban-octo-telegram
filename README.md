@@ -21,7 +21,7 @@ Deployed url:
 https://sallychan100.github.io/Code-Refactor-for-Horiseon-Social-Solution-Services/
 
 Github Repo:
-https://github.com/sallychan100
+https://github.com/sallychan100/Code-Refactor-for-Horiseon-Social-Solution-Services
 
 ## Picture of deployed site: 
 ![Screenshot](https://github.com/sallychan100/Code-Refactor-for-Horiseon-Social-Solution-Services/blob/main/assets/images/screenshot.png)
